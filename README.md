@@ -10,7 +10,7 @@ It is a fast and easy way to do basic tests for these iot protocols; you can get
 
 ## Usage
 
-Just configure classes with your ip address and port number and launch the main classes. After that you can copy and paste your data in 'rlog.txt' file for packet reception times and 'slog.txt' for sending times. Then just run the parser class to get the calculated final results of tests.
+Just configure classes with your ip address and port number and launch the main classes. After that you can copy and paste your data in `rlog.txt`  file for packet reception times and `slog.txt`  for sending times. Then just run the parser class to get the calculated final results of tests.
 
 ## Contributing
 
