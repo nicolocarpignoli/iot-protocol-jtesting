@@ -18,4 +18,4 @@ Pull-requests and Issues are welcome.
 
 ## License
 
-This project is released under MIT license as you can check in LICENSE.md file.pose
+This project is released under MIT license as you can check in LICENSE.md file.
