@@ -1,4 +1,4 @@
-# iot_protocol_jtesting
+# iot-protocol-jtesting
 
 ## Overview
 
